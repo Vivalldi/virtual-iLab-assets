@@ -8,8 +8,15 @@
     .ilab-header {
         .navigation-list {
             a {
-                color: white;
+                color: white !important;
             }
+
+            .navigation-list.new ul a {
+                background-color: $blueThree;
+            }
+        }
+        h1.name a span{
+            color: white;
         }
     }
 

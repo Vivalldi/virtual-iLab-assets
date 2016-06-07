@@ -3,6 +3,10 @@
   background: -o-linear-gradient(45deg, #505DCC, #161B28);
   background: linear-gradient(45deg, #505DCC, #161B28); }
   .ilab-full-header .ilab-header .navigation-list a {
+    color: white !important; }
+  .ilab-full-header .ilab-header .navigation-list .navigation-list.new ul a {
+    background-color: #5996FF; }
+  .ilab-full-header .ilab-header h1.name a span {
     color: white; }
 
 /*# sourceMappingURL=main.css.map */
